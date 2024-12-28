@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.5
 // @description  Replaces images on a webpage with a draggable menu, selects and replaces specific image URLs and remove some specific ads element
-// @author       You
+// @author       Jolly Meme
 // @match        https://truyenqqto.com/*
 // @grant        none
 // ==/UserScript==
