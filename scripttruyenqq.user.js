@@ -1,10 +1,9 @@
-@ -0,0 +1,160 @@
 // ==UserScript==
 // @name         Image Replacer with Menu + Movable Menu + AD remover
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.7
 // @description  Replaces images on a webpage with a draggable menu, selects and replaces specific image URLs and remove some specific ads element
-// @author       You
+// @author       Jolly Meme
 // @match        https://truyenqqto.com/*
 // @grant        none
 // ==/UserScript==
@@ -139,6 +138,9 @@
             '#top-banner-reading-container',
             'div.d-flex.align-items-center.justify-content-center',
             '#ad_info',
+            '#floating-banner-img',
+            '#_pop-qqto-1',
+
 
         ];
 
